@@ -13,6 +13,7 @@ The following presentations were coded in LaTeX:
 Spectacle is a React JS based presentation library created by Formidable.
 
 Formidable website for Spectacle: https://formidable.com/open-source/spectacle/
+
 Spectacle Github: https://github.com/FormidableLabs/spectacle
 
 The following presentations were coded using Spectacle:
